@@ -1,1 +1,1 @@
-# JoaoPedroMontrezorProvaPraticaReact
+Aplicação Web de listagem de produtos.
